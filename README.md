@@ -12,7 +12,7 @@ material bibliográfico, facilitando implementações futuras (princípios 1, 2 
 ```
 ```txt
 Material.Java: Responsável por abstrair quais informações serão necessárias para ser
-apresentado na tela de listagem (ListagemViwer.Java) (# princípio 3).
+apresentado na tela de listagem (ListagemViwer.Java) (princípio 3).
 ```
 ```txt
 Janela.Java: Responsável por organizar a criação das telas (princípio 1).

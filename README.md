@@ -22,7 +22,8 @@ Livro.Java, Revista.Java: Classes base (princípios 1 e 3).
 ```
 # Bad Smell:
 ```txt
-Grande quantidade de código dos arquivos que são responsáveis pela criação da tela (LivroView.Java, RevistaView.Java e ListagemView.Java).
+Grande quantidade de código dos arquivos que são responsáveis pela criação da tela (LivroView.Java,
+RevistaView.Java e ListagemView.Java).
 ```
 # Professor:
 [Marcelo de Almeida Maia](http://www.portal.facom.ufu.br/pessoas/docentes/marcelo-de-almeida-maia)

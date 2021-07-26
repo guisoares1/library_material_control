@@ -8,8 +8,6 @@
 # Arquivos:
 ```txt
 material_bibliografico.Java: Responsável por ser a camada que centraliza todos os tipos de
-```
-```txt
 material bibliográfico, facilitando implementações futuras (princípios 1, 2 e 4).
 ```
 ```txt

@@ -54,6 +54,7 @@ public class LivroView extends JFrame {
 		btnNewButton_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				Janelas.Revista(Material);
+				setVisible(false);
 				}
 		});
 		
@@ -63,7 +64,8 @@ public class LivroView extends JFrame {
 		JButton btnNewButton_2 = new JButton("Listagem");
 		btnNewButton_2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				Janelas.Listagem(Material);	
+				Janelas.Listagem(Material);
+				setVisible(false);
 			}
 		});
 		

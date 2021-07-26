@@ -57,6 +57,7 @@ public class RevistaView extends JFrame {
 			btnNewButton_1.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
 					Janelas.Livro(Material);
+					setVisible(false);
 					}
 			});
 			
@@ -67,6 +68,7 @@ public class RevistaView extends JFrame {
 			btnNewButton_2.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
 					Janelas.Listagem(Material);	
+					setVisible(false);
 				}
 			});
 			btnNewButton_2.setBounds(294, 227, 89, 23);
